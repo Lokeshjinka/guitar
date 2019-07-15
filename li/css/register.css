@@ -1,0 +1,19 @@
+body{
+  background: url('../im/bb.jpg');
+    background-size: cover;
+}
+.registerform{
+width:60%;
+height: 50%;
+position:absolute;
+top: 10%;
+left: 10%;
+text-align: center;
+background-color: white;
+margin: 10%;
+
+}
+input{
+    width: 10%;
+    height:20%;
+}
